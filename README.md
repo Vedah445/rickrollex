@@ -1,2 +1,2 @@
 # rickrollex
-This my first repository
+This my first repository. Deal with it
